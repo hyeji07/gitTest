@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React!!a
+          Learn React!!동시 여러작업하기
         </a>
       </header>
     </div>
